@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the blog",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quos sequi aperiam facilis nostrum corrupti eius ipsum quisquam? Eligendi ducimus in nobis libero non ab, pariatur quos a ipsum distinctio.",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 css tips",
+      "body": "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quos sequi aperiam facilis nostrum corrupti eius ipsum quisquam?",
+      "tags": ["css", "styles", "webdev", "coding"]
+    },
+    {
+      "title": "new post",
+      "body": "adsfca asdf easf  aahgtjy udg ",
+      "tags": ["web", "dev", "css"],
+      "id": 4
+    }
+  ]
+}
